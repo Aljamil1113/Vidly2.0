@@ -106,3 +106,16 @@ D:\Udemy\Projects\Vidly2.0\Vidly2_0\obj\Debug\Vidly2_0.csproj.CoreCompileInputs.
 D:\Udemy\Projects\Vidly2.0\Vidly2_0\obj\Debug\Vidly2_0.csproj.CopyComplete
 D:\Udemy\Projects\Vidly2.0\Vidly2_0\obj\Debug\Vidly2_0.dll
 D:\Udemy\Projects\Vidly2.0\Vidly2_0\obj\Debug\Vidly2_0.pdb
+D:\Udemy\Projects\Vidly2.0\Vidly2_0\obj\Debug\Vidly2_0.Migrations.Initial.resources
+D:\Udemy\Projects\Vidly2.0\Vidly2_0\obj\Debug\Vidly2_0.csproj.GenerateResource.cache
+D:\Udemy\Projects\Vidly2.0\Vidly2_0\obj\Debug\Vidly2_0.Migrations.AddMembershipType.resources
+D:\Udemy\Projects\Vidly2.0\Vidly2_0\obj\Debug\Vidly2_0.Migrations.Initial1.resources
+D:\Udemy\Projects\Vidly2.0\Vidly2_0\obj\Debug\Vidly2_0.Migrations.PupulateMemberTypes.resources
+D:\Udemy\Projects\Vidly2.0\Vidly2_0\obj\Debug\Vidly2_0.Migrations.ApplyAnnotationToCustomerName.resources
+D:\Udemy\Projects\Vidly2.0\Vidly2_0\obj\Debug\Vidly2_0.Migrations.AddNameMembershipType.resources
+D:\Udemy\Projects\Vidly2.0\Vidly2_0\obj\Debug\Vidly2_0.Migrations.SeedNameMembershipType.resources
+D:\Udemy\Projects\Vidly2.0\Vidly2_0\obj\Debug\Vidly2_0.Migrations.AddBirthDateCustomer.resources
+D:\Udemy\Projects\Vidly2.0\Vidly2_0\obj\Debug\Vidly2_0.Migrations.ModifyBirthDateCustomer.resources
+D:\Udemy\Projects\Vidly2.0\Vidly2_0\obj\Debug\Vidly2_0.Migrations.AddGenre.resources
+D:\Udemy\Projects\Vidly2.0\Vidly2_0\obj\Debug\Vidly2_0.Migrations.AddColoumnsMovies.resources
+D:\Udemy\Projects\Vidly2.0\Vidly2_0\obj\Debug\Vidly2_0.Migrations.SeedGenre.resources
