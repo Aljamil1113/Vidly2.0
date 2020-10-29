@@ -101,7 +101,6 @@ D:\Udemy\Projects\Vidly2.0\Vidly2_0\bin\Microsoft.Owin.Security.Twitter.xml
 D:\Udemy\Projects\Vidly2.0\Vidly2_0\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 D:\Udemy\Projects\Vidly2.0\Vidly2_0\bin\Microsoft.Owin.Security.OAuth.xml
 D:\Udemy\Projects\Vidly2.0\Vidly2_0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\Udemy\Projects\Vidly2.0\Vidly2_0\obj\Debug\Vidly2_0.csprojAssemblyReference.cache
 D:\Udemy\Projects\Vidly2.0\Vidly2_0\obj\Debug\Vidly2_0.csproj.CoreCompileInputs.cache
 D:\Udemy\Projects\Vidly2.0\Vidly2_0\obj\Debug\Vidly2_0.csproj.CopyComplete
 D:\Udemy\Projects\Vidly2.0\Vidly2_0\obj\Debug\Vidly2_0.dll
@@ -119,3 +118,5 @@ D:\Udemy\Projects\Vidly2.0\Vidly2_0\obj\Debug\Vidly2_0.Migrations.ModifyBirthDat
 D:\Udemy\Projects\Vidly2.0\Vidly2_0\obj\Debug\Vidly2_0.Migrations.AddGenre.resources
 D:\Udemy\Projects\Vidly2.0\Vidly2_0\obj\Debug\Vidly2_0.Migrations.AddColoumnsMovies.resources
 D:\Udemy\Projects\Vidly2.0\Vidly2_0\obj\Debug\Vidly2_0.Migrations.SeedGenre.resources
+D:\Udemy\Projects\Vidly2.0\Vidly2_0\obj\Debug\Vidly2_0.Migrations.Updates.resources
+D:\Udemy\Projects\Vidly2.0\Vidly2_0\obj\Debug\Vidly2_0.Migrations.RequiredReleasedDateMovie.resources

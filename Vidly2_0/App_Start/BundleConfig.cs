@@ -24,7 +24,7 @@ namespace Vidly2_0
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap-simplex.css",
-                      "~/Content/site.css"));
+                      "~/Content/Site.css"));
         }
     }
 }
