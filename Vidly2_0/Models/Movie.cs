@@ -19,7 +19,8 @@ namespace Vidly2_0.Models
 
         public DateTime? DateAdded { get; set; }
 
-        [LimitValue]
+        [Range(1,20)]
+        //[LimitValue]
         public int Stocks { get; set; }
 
         public Genre GenreType { get; set; }

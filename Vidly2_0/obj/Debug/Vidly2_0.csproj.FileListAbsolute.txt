@@ -120,3 +120,13 @@ D:\Udemy\Projects\Vidly2.0\Vidly2_0\obj\Debug\Vidly2_0.Migrations.AddColoumnsMov
 D:\Udemy\Projects\Vidly2.0\Vidly2_0\obj\Debug\Vidly2_0.Migrations.SeedGenre.resources
 D:\Udemy\Projects\Vidly2.0\Vidly2_0\obj\Debug\Vidly2_0.Migrations.Updates.resources
 D:\Udemy\Projects\Vidly2.0\Vidly2_0\obj\Debug\Vidly2_0.Migrations.RequiredReleasedDateMovie.resources
+D:\Udemy\Projects\Vidly2.0\Vidly2_0\bin\System.Net.Http.Formatting.dll
+D:\Udemy\Projects\Vidly2.0\Vidly2_0\bin\System.Web.Http.dll
+D:\Udemy\Projects\Vidly2.0\Vidly2_0\bin\System.Web.Http.WebHost.dll
+D:\Udemy\Projects\Vidly2.0\Vidly2_0\bin\System.Net.Http.Formatting.xml
+D:\Udemy\Projects\Vidly2.0\Vidly2_0\bin\System.Web.Http.xml
+D:\Udemy\Projects\Vidly2.0\Vidly2_0\bin\System.Web.Http.WebHost.xml
+D:\Udemy\Projects\Vidly2.0\Vidly2_0\bin\AutoMapper.dll
+D:\Udemy\Projects\Vidly2.0\Vidly2_0\bin\AutoMapper.xml
+D:\Udemy\Projects\Vidly2.0\Vidly2_0\obj\Debug\Vidly2_0.csprojAssemblyReference.cache
+D:\Udemy\Projects\Vidly2.0\Vidly2_0\obj\Debug\Vidly2_0.Migrations.UpdateRangeStocksMovie.resources
