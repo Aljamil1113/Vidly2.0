@@ -24,5 +24,7 @@ namespace Vidly2_0.Dtos
         public int Stocks { get; set; }
 
         public byte GenreId { get; set; }
+
+        public GenreDto GenreType { get; set; }
     }
 }
