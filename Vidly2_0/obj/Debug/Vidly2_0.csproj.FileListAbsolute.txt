@@ -129,3 +129,7 @@ D:\Udemy\Projects\Vidly2.0\Vidly2_0\bin\System.Web.Http.WebHost.xml
 D:\Udemy\Projects\Vidly2.0\Vidly2_0\bin\AutoMapper.dll
 D:\Udemy\Projects\Vidly2.0\Vidly2_0\bin\AutoMapper.xml
 D:\Udemy\Projects\Vidly2.0\Vidly2_0\obj\Debug\Vidly2_0.Migrations.UpdateRangeStocksMovie.resources
+D:\Udemy\Projects\Vidly2.0\Vidly2_0\obj\Debug\Vidly2_0.Migrations.SeedUser.resources
+D:\Udemy\Projects\Vidly2.0\Vidly2_0\obj\Debug\Vidly2_0.Migrations.addDrivingLicenseToApplicationUser.resources
+D:\Udemy\Projects\Vidly2.0\Vidly2_0\obj\Debug\Vidly2_0.Migrations.addPhoneToUsers.resources
+D:\Udemy\Projects\Vidly2.0\Vidly2_0\obj\Debug\Vidly2_0.csprojAssemblyReference.cache
