@@ -133,3 +133,8 @@ D:\Udemy\Projects\Vidly2.0\Vidly2_0\obj\Debug\Vidly2_0.Migrations.SeedUser.resou
 D:\Udemy\Projects\Vidly2.0\Vidly2_0\obj\Debug\Vidly2_0.Migrations.addDrivingLicenseToApplicationUser.resources
 D:\Udemy\Projects\Vidly2.0\Vidly2_0\obj\Debug\Vidly2_0.Migrations.addPhoneToUsers.resources
 D:\Udemy\Projects\Vidly2.0\Vidly2_0\obj\Debug\Vidly2_0.csprojAssemblyReference.cache
+D:\Udemy\Projects\Vidly2.0\Vidly2_0\bin\Glimpse.Ado.dll
+D:\Udemy\Projects\Vidly2.0\Vidly2_0\bin\Glimpse.AspNet.dll
+D:\Udemy\Projects\Vidly2.0\Vidly2_0\bin\Glimpse.Core.dll
+D:\Udemy\Projects\Vidly2.0\Vidly2_0\bin\Glimpse.EF6.dll
+D:\Udemy\Projects\Vidly2.0\Vidly2_0\bin\Glimpse.Mvc5.dll
