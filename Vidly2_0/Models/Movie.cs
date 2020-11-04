@@ -20,8 +20,11 @@ namespace Vidly2_0.Models
         public DateTime? DateAdded { get; set; }
 
         [Range(1,20)]
+        [Display(Name = "Release Date")]
         //[LimitValue]
-        public int Stocks { get; set; }
+        public byte Stocks { get; set; }
+
+        public byte NumberAvailable { get; set; }
 
         public Genre GenreType { get; set; }
 
